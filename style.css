@@ -1,0 +1,251 @@
+.menu1{
+	font-family: Helvetica;
+	color: #001e00;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+
+	margin: 10px 0px -20px -50px;
+	
+	
+}
+
+.searchicon
+{
+	margin-bottom: 20px;
+}
+
+
+.img1{
+	padding-top: 10px;
+}
+
+.part2{
+margin-left: 50px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+	
+}
+
+
+
+.imgwork{
+	padding-top: 0px;
+	padding-left: 5px;
+}
+
+
+.svglogos{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 0px;
+}
+
+.browsecategories{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	margin-left: 50px;
+	
+
+}
+
+.boxcategories{
+	background-color: #f2f7f2;
+	font-family: helvetica;
+	width: 300px;
+	height: 120px;
+	margin-top: 30px;
+	margin-left: 0px;
+	margin-right: 20px;
+	margin-bottom: -10px;
+	padding: 0px 30px 20px 10px;
+	border-radius: 10px;
+
+}
+.boxcategoriesbelowtext{
+	font-family: Helvetica;
+	color: #5e6d55;
+}
+
+.imagepart1{
+	padding-left: 35px;
+	padding-top: 50px;
+	margin: auto;
+	position: relative;
+	border-radius: 50px;
+}
+
+.bgimagesetup
+{
+	color: white;
+	font-size: 65px;
+	font-family: Clarendon Lt BT;
+	position: absolute;
+	left: 100px;
+	top: 130px;
+}
+
+.boxinside-imagepart1
+{
+	position: absolute;
+	bottom: 20px;
+	left: 80px;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+}
+
+.boxinside-imagepart1-textinbox
+{
+	
+	margin: 20px;
+	background-color: #14a800;
+	color: white;
+	font-family:arial;
+	width: 300px; height:150px;
+	border-radius: 15px;
+
+	
+}
+
+.why-businesses-turn-to-upwork
+{
+	display: flex;
+	flex-direction: row;
+	padding-left: 50px;
+	padding-top: 100px;
+
+}
+
+.why-businesses-turn-to-upwork-part1
+{
+	background-color: #f2f7f2;
+	padding-left: 20px;
+	width: 65%;
+	overflow: hidden;
+	border-radius: 8px;
+}
+
+.why-businesses-turn-to-upwork-part2
+{
+	background-color: #14a800;
+	padding-left: 20px;
+	padding-top: 120px;
+	padding-right: 0px;
+	margin-left: -100px;
+	width: 35%;
+	border-radius: 8px;
+	overflow: hidden;
+	flex: 1;
+}
+
+.findgreatwork
+{
+	display: flex;
+	flex-direction: row;
+	padding: 50px 50px 50px 50px;
+}
+
+.findgreatwork-part2
+{
+	background-color: #1f57c3;
+	width: 700px;
+	height: 663px;
+	padding-left: 20px;
+	padding-top: 20px;
+	color: white;
+
+}
+
+.fortalent-findgreatwork{
+	display: flex;
+	flex-direction: row;
+	font-family: arial;
+	color: white;
+	font-size: 18px;
+	text-align: left;
+	padding-left: 20px;
+}
+
+.Trustedbyleadingbrands
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	padding-left: 50px;
+	margin-top: -10px;
+}
+
+.topskills
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	margin: 50px 50px 50px 50px;
+	line-height: 2;
+}
+
+.topskills-part1{
+	font-family: helvetica;
+	font-size: 32px;
+}
+
+
+.topskills-part2
+{
+	font-family: Arial;
+	color: #5e6d55;
+	font-size: 24px;
+
+}
+
+.footer-part1
+{
+	background-color: #001e00;
+	color: white;
+	font-family: helvetica;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	padding: 50px 50px 0px 50px ;
+	line-height: 2;
+	font-size: 14px;
+}
+
+.footeicons
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+
+	background-color: #001e00;
+	color: white;
+	font-family: helvetica;
+	font-size: 14px;
+
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 10px;
+}
+
+.socialmediaiconssetup
+{
+	padding-left: 50px;
+	padding-top: 0px;
+	padding-bottom: 5px;
+}
+
+.footertext
+{
+	margin-top: -9px;
+	background-color: #001e00;
+	color: white;
+	font-family: helvetica;
+	font-size: 14px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
